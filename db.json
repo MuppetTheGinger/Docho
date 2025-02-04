@@ -1,31 +1,17 @@
 {
-  "posts": [
+  "trails": [
     {
       "id": 1,
-      "title": "Post 1"
-    },
-    {
-      "id": 2,
-      "title": "Post 2"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
+      "name": "Trail 1",
+      "description": "Description of Trail 1",
+      "imageUrl": "http://example.com/image1.jpg",
+      "length": 5.0,
+      "bestTime": "00:30:00",
+      "bestTimeDate": "2025-01-01",
+      "type": "walking",
+      "userName": "User1",
+      "timeSpent": "00:40:00",
+      "dateRecorded": "2025-01-02"
     }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
