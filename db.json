@@ -2,16 +2,68 @@
   "trails": [
     {
       "id": 1,
-      "name": "Trail 1",
-      "description": "Description of Trail 1",
+      "name": "Sunny Meadow Trail",
+      "description": "A beautiful trail through sunny meadows.",
       "imageUrl": "http://example.com/image1.jpg",
-      "length": 5.0,
-      "bestTime": "00:30:00",
-      "bestTimeDate": "2025-01-01",
+      "length": 3.5,
+      "bestTime": "00:45:00",
+      "bestTimeDate": "2025-01-10",
       "type": "walking",
-      "userName": "User1",
+      "userName": "Alice",
+      "timeSpent": "01:00:00",
+      "dateRecorded": "2025-01-11"
+    },
+    {
+      "id": 2,
+      "name": "Mountain View Trail",
+      "description": "A challenging trail with stunning mountain views.",
+      "imageUrl": "http://example.com/image2.jpg",
+      "length": 5.0,
+      "bestTime": "01:30:00",
+      "bestTimeDate": "2025-01-15",
+      "type": "cycling",
+      "userName": "Bob",
+      "timeSpent": "02:00:00",
+      "dateRecorded": "2025-01-16"
+    },
+    {
+      "id": 3,
+      "name": "Forest Path",
+      "description": "A serene path through the forest.",
+      "imageUrl": "http://example.com/image3.jpg",
+      "length": 2.0,
+      "bestTime": "00:30:00",
+      "bestTimeDate": "2025-01-20",
+      "type": "walking",
+      "userName": "Charlie",
       "timeSpent": "00:40:00",
-      "dateRecorded": "2025-01-02"
+      "dateRecorded": "2025-01-21"
+    },
+    {
+      "id": 4,
+      "name": "Riverbank Trail",
+      "description": "A relaxing trail along the riverbank.",
+      "imageUrl": "http://example.com/image4.jpg",
+      "length": 4.0,
+      "bestTime": "01:00:00",
+      "bestTimeDate": "2025-01-25",
+      "type": "walking",
+      "userName": "Diana",
+      "timeSpent": "01:15:00",
+      "dateRecorded": "2025-01-26"
+    },
+    {
+      "id": 5,
+      "name": "Desert Dunes Trail",
+      "description": "An adventurous trail through the desert dunes.",
+      "imageUrl": "http://example.com/image5.jpg",
+      "length": 6.0,
+      "bestTime": "02:00:00",
+      "bestTimeDate": "2025-01-30",
+      "type": "cycling",
+      "userName": "Eve",
+      "timeSpent": "02:30:00",
+      "dateRecorded": "2025-01-31"
     }
   ]
 }
